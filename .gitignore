@@ -1,0 +1,24 @@
+# development files
+.env
+.node_modules
+
+# macOS system files
+.DS_Store
+
+# macOS folder attributes
+.AppleDouble
+.LSOverride
+
+# macOS Spotlight metadata
+._*
+
+# macOS resource forks
+.__*
+
+# macOS-specific files
+.DS_Store
+.Trashes
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.apdisk
