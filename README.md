@@ -5,3 +5,4 @@ A Simple CRUD(Create,Read,Update,Delete) RESTful API made with the help of Expre
 ```
 git clone <repo>
 ```
+To check the working of the project, kindly use <a href="https://www.postman.com/">POSTMAN</a>
